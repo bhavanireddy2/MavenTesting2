@@ -230,3 +230,45 @@
 2022-02-27 12:33:47,069 - MavenTesting -INFO - user name provided
 2022-02-27 12:33:47,162 - MavenTesting -INFO - password provided
 2022-02-27 12:33:49,399 - MavenTesting -INFO - Providing the customer details..
+2022-02-27 16:46:08,333 - MavenTesting -INFO - URL is opened
+2022-02-27 16:46:08,963 - MavenTesting -INFO - username is entered
+2022-02-27 16:46:09,092 - MavenTesting -INFO - password is entered
+2022-02-27 16:46:11,744 - MavenTesting -INFO - login passed
+2022-02-27 16:46:17,286 - MavenTesting -INFO - user name provided
+2022-02-27 16:46:18,007 - MavenTesting -INFO - password provided
+2022-02-27 16:46:21,945 - MavenTesting -INFO - Providing the customer details..
+2022-02-27 16:55:17,052 - MavenTesting -INFO - URL is opened
+2022-02-27 16:55:17,615 - MavenTesting -INFO - username is entered
+2022-02-27 16:55:17,720 - MavenTesting -INFO - password is entered
+2022-02-27 16:55:19,782 - MavenTesting -INFO - login passed
+2022-02-27 16:55:27,241 - MavenTesting -INFO - user name provided
+2022-02-27 16:55:27,463 - MavenTesting -INFO - password provided
+2022-02-27 16:55:29,748 - MavenTesting -INFO - Providing the customer details..
+2022-02-27 16:57:05,671 - MavenTesting -INFO - URL is opened
+2022-02-27 16:57:06,222 - MavenTesting -INFO - username is entered
+2022-02-27 16:57:06,391 - MavenTesting -INFO - password is entered
+2022-02-27 16:57:08,993 - MavenTesting -INFO - login passed
+2022-02-27 16:57:15,313 - MavenTesting -INFO - user name provided
+2022-02-27 16:57:16,517 - MavenTesting -INFO - password provided
+2022-02-27 16:57:19,371 - MavenTesting -INFO - Providing the customer details..
+2022-02-27 16:59:24,289 - MavenTesting -INFO - URL is opened
+2022-02-27 16:59:24,802 - MavenTesting -INFO - username is entered
+2022-02-27 16:59:24,917 - MavenTesting -INFO - password is entered
+2022-02-27 16:59:27,276 - MavenTesting -INFO - login passed
+2022-02-27 16:59:34,213 - MavenTesting -INFO - user name provided
+2022-02-27 16:59:34,531 - MavenTesting -INFO - password provided
+2022-02-27 16:59:39,256 - MavenTesting -INFO - Providing the customer details..
+2022-02-27 17:13:07,096 - MavenTesting -INFO - URL is opened
+2022-02-27 17:13:07,698 - MavenTesting -INFO - username is entered
+2022-02-27 17:13:07,857 - MavenTesting -INFO - password is entered
+2022-02-27 17:13:10,488 - MavenTesting -INFO - login passed
+2022-02-27 17:13:17,679 - MavenTesting -INFO - user name provided
+2022-02-27 17:13:18,067 - MavenTesting -INFO - password provided
+2022-02-27 17:13:21,072 - MavenTesting -INFO - Providing the customer details..
+2022-02-27 17:27:09,020 - MavenTesting -INFO - URL is opened
+2022-02-27 17:27:09,663 - MavenTesting -INFO - username is entered
+2022-02-27 17:27:09,834 - MavenTesting -INFO - password is entered
+2022-02-27 17:27:12,194 - MavenTesting -INFO - login passed
+2022-02-27 17:27:19,219 - MavenTesting -INFO - user name provided
+2022-02-27 17:27:19,934 - MavenTesting -INFO - password provided
+2022-02-27 17:27:23,494 - MavenTesting -INFO - Providing the customer details..
