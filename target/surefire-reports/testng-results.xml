@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="MavenTesting2" duration-ms="25456" started-at="2022-02-27T12:33:32 IST" finished-at="2022-02-27T12:33:57 IST">
+    <groups>
+    </groups>
+    <test name="BankingApp Test" duration-ms="25456" started-at="2022-02-27T12:33:32 IST" finished-at="2022-02-27T12:33:57 IST">
+      <class name="Com.MavenTesting2.TestCases.TC001_LoginPage">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:Com.MavenTesting2.TestCases.TC001_LoginPage@50b494a6]" name="setUp" is-config="true" duration-ms="5825" started-at="2022-02-27T12:33:32 IST" finished-at="2022-02-27T12:33:38 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:Com.MavenTesting2.TestCases.TC001_LoginPage@50b494a6]" name="loginTest" duration-ms="3294" started-at="2022-02-27T12:33:38 IST" finished-at="2022-02-27T12:33:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Com.MavenTesting2.TestCases.TC001_LoginPage@50b494a6]" name="tearDown" is-config="true" duration-ms="613" started-at="2022-02-27T12:33:41 IST" finished-at="2022-02-27T12:33:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Com.MavenTesting2.TestCases.TC001_LoginPage -->
+      <class name="Com.MavenTesting2.TestCases.TC003_AddNewCustomer">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:Com.MavenTesting2.TestCases.TC003_AddNewCustomer@4973813a]" name="setUp" is-config="true" duration-ms="4942" started-at="2022-02-27T12:33:42 IST" finished-at="2022-02-27T12:33:46 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addNewCustomer()[pri:0, instance:Com.MavenTesting2.TestCases.TC003_AddNewCustomer@4973813a]" name="addNewCustomer" duration-ms="10035" started-at="2022-02-27T12:33:46 IST" finished-at="2022-02-27T12:33:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewCustomer -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Com.MavenTesting2.TestCases.TC003_AddNewCustomer@4973813a]" name="tearDown" is-config="true" duration-ms="632" started-at="2022-02-27T12:33:57 IST" finished-at="2022-02-27T12:33:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Com.MavenTesting2.TestCases.TC003_AddNewCustomer -->
+    </test> <!-- BankingApp Test -->
+  </suite> <!-- MavenTesting2 -->
+</testng-results>

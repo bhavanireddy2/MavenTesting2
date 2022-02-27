@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="MavenTesting2">
+<listeners>
+		<listener class-name="Com.MavenTesting2.Utilities.Reporting" />
+	</listeners>
+
+	<test name="BankingApp Test">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="Com.MavenTesting2.TestCases.TC001_LoginPage" />
+<!-- <class name="Com.MavenTesting2.TestCases.TC002_Login_DDT" /> -->
+ <class name="Com.MavenTesting2.TestCases.TC003_AddNewCustomer" />
+			
+			
+			
+		</classes>
+
+	</test>
+
+</suite>

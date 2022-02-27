@@ -1,0 +1,9 @@
+Com\MavenTesting2\TestCases\BaseClass.class
+Com\MavenTesting2\Utilities\ReadConfig.class
+Com\MavenTesting2\PageObjects\AddCustomerPage.class
+Com\MavenTesting2\PageObjects\LoginPage.class
+Com\MavenTesting2\TestCases\TC002_Login_DDT.class
+Com\MavenTesting2\TestCases\TC003_AddNewCustomer.class
+Com\MavenTesting2\Utilities\Reporting.class
+Com\MavenTesting2\TestCases\TC001_LoginPage.class
+Com\MavenTesting2\Utilities\XLUtils.class

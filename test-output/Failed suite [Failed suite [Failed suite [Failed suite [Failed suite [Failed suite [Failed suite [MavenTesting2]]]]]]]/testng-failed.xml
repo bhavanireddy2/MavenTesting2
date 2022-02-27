@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Failed suite [Failed suite [Failed suite [Failed suite [Failed suite [Failed suite [Failed suite [MavenTesting2]]]]]]]]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="Com.MavenTesting2.Utilities.Reporting"/>
+  </listeners>
+  <test thread-count="5" name="BankingApp Test(failed)(failed)(failed)(failed)(failed)(failed)(failed)(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="Com.MavenTesting2.TestCases.TC003_AddNewCustomer">
+        <methods>
+          <include name="tearDown"/>
+          <include name="addNewCustomer"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- Com.MavenTesting2.TestCases.TC003_AddNewCustomer -->
+    </classes>
+  </test> <!-- BankingApp Test(failed)(failed)(failed)(failed)(failed)(failed)(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Failed suite [Failed suite [Failed suite [Failed suite [Failed suite [Failed suite [MavenTesting2]]]]]]]] -->
